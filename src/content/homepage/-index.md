@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
+  title: "The Hanato Starter Template You Need To Start Your Astro Project"
   content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
   image: "/images/banner.png"
   button:
@@ -13,7 +13,7 @@ banner:
 features:
   - title: "What's Included in Astroplate"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "hanato! is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
     bulletpoints:
       - "10+ Pre-build pages"
       - "95+ Google Pagespeed Score"
